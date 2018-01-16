@@ -3,8 +3,8 @@ title: Paper Summaries
 subtitle: astrobitos.org translations
 email: manuelpichardom@gmail.com
 description: Paper Summaries from <a href="https://arxiv.org/list/astro-ph/new">astro-ph</a>. Mainly English translations from <a href="https://astrobitos.org/author/manuelmarcano22/">Astrobitos</a>
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "EnglishAstrobitos" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site
 author:
 street_address: Texas Tech University
 city: Lubbock
