@@ -4,9 +4,9 @@ git add -A
 git commit -m "Base Sources :octocat:"
 git push origin master
 cd _site
-#touch .nojekyll
-#git init
-#git remote add origin https://github.com/manuelmarcano22/EnglishAstrobitos.git
+touch .nojekyll
+git init
+git remote add origin https://github.com/manuelmarcano22/EnglishAstrobitos.git
 git checkout -b gh-pages
 git add -A
 git commit -am "Build :octocat:"
