@@ -1,0 +1,32 @@
+# site settings
+title: Paper Summaries
+subtitle: astrobitos.org translations
+email: manuelpichardom@gmail.com
+description: Paper Summaries from <a href="https://arxiv.org/list/astro-ph/new">astro-ph</a>. Mainly English translations from <a href="https://astrobitos.org/author/manuelmarcano22/">Astrobitos</a>
+baseurl: "/PaperSummaries" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: Texas Tech University
+city: Lubbock
+state: TX
+zip_code: 79401
+country: United States of America
+#phone: (508) 410-0812
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/manuelmarcano22
+#twitter_url: https://twitter.com/andrewbanchich
+
+
+# build settings
+markdown: kramdown
+
+
+sass:
+  style: compressed
