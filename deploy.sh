@@ -4,7 +4,7 @@ git add -A
 git commit -m "Base Sources :octocat:"
 git push origin master
 cd _site
-touch .nojekyll
+#touch .nojekyll
 #git init
 #git remote add origin https://github.com/manuelmarcano22/EnglishAstrobitos.git
 git checkout -b gh-pages
